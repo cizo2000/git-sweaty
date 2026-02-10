@@ -20283,7 +20283,7 @@
       }
     }
   },
-  "generated_at": "2026-02-10T20:51:49.207381+00:00",
+  "generated_at": "2026-02-10T21:02:57.546358+00:00",
   "other_bucket": "OtherSports",
   "type_meta": {
     "GymCardio": {
@@ -20330,8 +20330,8 @@
     "SkateSports"
   ],
   "units": {
-    "distance": "mi",
-    "elevation": "ft"
+    "distance": "km",
+    "elevation": "m"
   },
   "years": [
     2017,
