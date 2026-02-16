@@ -14892,5 +14892,16 @@
     "start_date_local": "2026-01-30T08:03:30Z",
     "type": "WalkHike",
     "year": 2026
+  },
+  {
+    "date": "2026-02-16",
+    "distance": 19678.5,
+    "elevation_gain": 2547.8,
+    "id": 17415268398,
+    "moving_time": 6498.0,
+    "raw_type": "AlpineSki",
+    "start_date_local": "2026-02-16T09:40:40Z",
+    "type": "WinterSports",
+    "year": 2026
   }
 ]
