@@ -14958,5 +14958,38 @@
     "start_date_local": "2026-02-20T12:21:41Z",
     "type": "WalkHike",
     "year": 2026
+  },
+  {
+    "date": "2026-02-20",
+    "distance": 8919.7,
+    "elevation_gain": 1098.4,
+    "id": 17464130282,
+    "moving_time": 3566.0,
+    "raw_type": "AlpineSki",
+    "start_date_local": "2026-02-20T17:52:25Z",
+    "type": "WinterSports",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-21",
+    "distance": 2277.1,
+    "elevation_gain": 23.0,
+    "id": 17470505455,
+    "moving_time": 2871.0,
+    "raw_type": "Hike",
+    "start_date_local": "2026-02-21T11:28:58Z",
+    "type": "WalkHike",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-21",
+    "distance": 4200.1,
+    "elevation_gain": 67.0,
+    "id": 17471866680,
+    "moving_time": 5249.0,
+    "raw_type": "Hike",
+    "start_date_local": "2026-02-21T12:38:01Z",
+    "type": "WalkHike",
+    "year": 2026
   }
 ]
