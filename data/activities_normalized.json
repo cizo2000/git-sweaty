@@ -15376,5 +15376,16 @@
     "start_date_local": "2026-04-29T18:32:41Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 4118.2,
+    "elevation_gain": 52.0,
+    "id": 18323948113,
+    "moving_time": 4411.0,
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-30T19:57:56Z",
+    "type": "WalkHike",
+    "year": 2026
   }
 ]
