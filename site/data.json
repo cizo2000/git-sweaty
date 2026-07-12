@@ -10121,6 +10121,13 @@
       "subtype": "Walk",
       "type": "WalkHike",
       "year": 2026
+    },
+    {
+      "date": "2026-07-12",
+      "hour": 13,
+      "subtype": "Hike",
+      "type": "WalkHike",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21578,6 +21585,15 @@
           "distance": 3199.8,
           "elevation_gain": 10.0,
           "moving_time": 4986.0
+        },
+        "2026-07-12": {
+          "activity_ids": [
+            19282643979
+          ],
+          "count": 1,
+          "distance": 6461.3,
+          "elevation_gain": 272.0,
+          "moving_time": 7802.0
         }
       },
       "WinterSports": {
@@ -21647,7 +21663,7 @@
       }
     }
   },
-  "generated_at": "2026-07-11T15:47:56.739592+00:00",
+  "generated_at": "2026-07-12T15:53:01.513849+00:00",
   "other_bucket": "OtherSports",
   "type_meta": {
     "GymCardio": {
