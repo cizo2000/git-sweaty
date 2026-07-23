@@ -10177,6 +10177,20 @@
       "subtype": "Walk",
       "type": "WalkHike",
       "year": 2026
+    },
+    {
+      "date": "2026-07-22",
+      "hour": 16,
+      "subtype": "Walk",
+      "type": "WalkHike",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-23",
+      "hour": 9,
+      "subtype": "Walk",
+      "type": "WalkHike",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21692,12 +21706,22 @@
         },
         "2026-07-22": {
           "activity_ids": [
-            19414389502
+            19414389502,
+            19423378656
+          ],
+          "count": 2,
+          "distance": 10561.7,
+          "elevation_gain": 112.0,
+          "moving_time": 12030.0
+        },
+        "2026-07-23": {
+          "activity_ids": [
+            19433238102
           ],
           "count": 1,
-          "distance": 4026.4,
-          "elevation_gain": 22.0,
-          "moving_time": 3195.0
+          "distance": 7336.1,
+          "elevation_gain": 143.0,
+          "moving_time": 9715.0
         }
       },
       "WinterSports": {
@@ -21767,7 +21791,7 @@
       }
     }
   },
-  "generated_at": "2026-07-22T16:16:17.311678+00:00",
+  "generated_at": "2026-07-23T16:21:43.966630+00:00",
   "other_bucket": "OtherSports",
   "type_meta": {
     "GymCardio": {
