@@ -10324,6 +10324,13 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-08-26",
+      "hour": 18,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21568,6 +21575,15 @@
           "distance": 77623.8,
           "elevation_gain": 247.0,
           "moving_time": 14708.0
+        },
+        "2026-08-26": {
+          "activity_ids": [
+            19914916036
+          ],
+          "count": 1,
+          "distance": 34307.1,
+          "elevation_gain": 90.0,
+          "moving_time": 6527.0
         }
       },
       "TeamSports": {
@@ -22079,7 +22095,7 @@
       }
     }
   },
-  "generated_at": "2026-08-26T16:12:01.218326+00:00",
+  "generated_at": "2026-08-28T00:11:29.632238+00:00",
   "other_bucket": "OtherSports",
   "type_meta": {
     "GymCardio": {
