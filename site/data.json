@@ -10548,6 +10548,13 @@
       "subtype": "Walk",
       "type": "WalkHike",
       "year": 2026
+    },
+    {
+      "date": "2026-10-04",
+      "hour": 11,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21884,6 +21891,15 @@
           "distance": 14265.5,
           "elevation_gain": 338.0,
           "moving_time": 3923.0
+        },
+        "2026-10-04": {
+          "activity_ids": [
+            20446444325
+          ],
+          "count": 1,
+          "distance": 44207.8,
+          "elevation_gain": 385.0,
+          "moving_time": 8136.0
         }
       },
       "TeamSports": {
@@ -22503,7 +22519,7 @@
       }
     }
   },
-  "generated_at": "2026-10-03T18:28:45.247659+00:00",
+  "generated_at": "2026-10-04T18:29:44.082088+00:00",
   "other_bucket": "OtherSports",
   "type_meta": {
     "GymCardio": {
