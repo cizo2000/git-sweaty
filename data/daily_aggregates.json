@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T19:48:29.947257+00:00",
+  "generated_at": "2026-10-31T18:58:41.101433+00:00",
   "years": {
     "2017": {
       "Ride": {
@@ -11984,6 +11984,24 @@
           "distance": 11042.7,
           "elevation_gain": 398.0,
           "moving_time": 13591.0
+        },
+        "2026-10-30": {
+          "activity_ids": [
+            20796745118
+          ],
+          "count": 1,
+          "distance": 2941.4,
+          "elevation_gain": 9.0,
+          "moving_time": 3191.0
+        },
+        "2026-10-31": {
+          "activity_ids": [
+            20806598866
+          ],
+          "count": 1,
+          "distance": 10167.5,
+          "elevation_gain": 437.0,
+          "moving_time": 13513.0
         }
       },
       "WinterSports": {
